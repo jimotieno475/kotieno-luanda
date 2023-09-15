@@ -8,11 +8,18 @@ background: url(./images/lake\ view.jpg)fixed;
     text-align: center;
     position: sticky;
     cursor: pointer;
-    pointer-events: painted;
+    
 }
-.trasport img {
+#dala+img{
+ text-align: center;
+}
+.cage+div{
+    
+}
+.trasport+img {
+}
+}
 
-}
 footer{
     color: aquamarine;
     position: static;
@@ -21,4 +28,5 @@ footer{
     font-weight: 400;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
+  
 }
